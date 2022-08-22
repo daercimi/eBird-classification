@@ -6,7 +6,7 @@ This project tries to classify the bird in the image obtain from the eBird datab
 This project is a student project from the UNMSM during the Smart Software course.
 
 During this project we: 
-- Extracted and analyzed the data of the E-Bird database.
+- Extracted and analyzed the data of the E-Bird database [Here. Only with a E-Bird account](https://media.ebird.org/catalog?regionCode=PE&sort=rating_rank_desc&daysSinceUp=7).
 - Did preprocessing with the data.
 - Downloaded the images from the E-Bird repository
 - Did preprocessing with the images
